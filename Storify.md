@@ -1,11 +1,11 @@
+## **Defining Audiences**
 
-
-## Audience that the problem is solving
+### Audience that the problem is solving
 - Fine jewelry designers
 - Socially responsible jewelry designers
 
 
-## Associated with direct audience
+### Associated with direct audience
 - Diamond dealers
 - Gemstone dealers
 - Retail stores
@@ -14,8 +14,8 @@
 - Bench jewelers
 - Jewelry sales representatives
 
-## Connections with the topic
-### Fans
+### Connections with the topic
+#### Fans
 - JCK Magazine
 - American Gem Trade Association
 - Ethical Metalsmiths
@@ -29,7 +29,7 @@
 - Jewelry designer consultants
 - Jewelry conferences
 
-### Haters
+#### Haters
 - Salesforce
 - Lightspeed
 - Bejeweled Software
@@ -37,3 +37,24 @@
 - The Edge
 - Fishbowl Inventory
 - Jewelry designer consultants
+
+
+## **Personas**
+- Jewelry Designer who would be using the products.
+
+![Jewelry Designer Persona](https://github.com/ericj312/jewelry-inventory/blob/master/DesignerPersona.jpg)
+
+- Sales representative who is associated with jewelry designer.
+
+![Sales Representative Persona](https://github.com/ericj312/jewelry-inventory/blob/master/SalesRepPersona.jpg)
+
+- Client who is associated with the jewelry designer.
+
+![Jewelry Client Persona](https://github.com/ericj312/jewelry-inventory/blob/master/ClientPersona.jpg)
+
+
+## **Features**
+- List of Features
+
+## User Stories
+- User Stories

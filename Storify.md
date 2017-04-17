@@ -54,7 +54,7 @@
 
 
 ## **Features**
-- List of Features
+- [List of Features](https://github.com/ericj312/jewelry-inventory/blob/master/Features.md)
 
 ## User Stories
-- User Stories
+- [User Stories](https://github.com/ericj312/jewelry-inventory/blob/master/UserStories.md)
